@@ -1,8 +1,5 @@
+# Crework Beginner cohort-1
 
-# Zomato clone website
-
-Week 3 crework's project is to make responsive clone website using html and CSS only
-I tried to make Zomato website using html and CSS but I couldn't make it responsive
-I will try to make it responsive in 2-3 days 
-
-I loved to make this and I will update this project while learning and this repo to...
+Crework is community where people learn web development this cohort is for Beginner cohort
+where we are learning web development from scratch , and weekly community leads gives us 
+task/projects to complete.
