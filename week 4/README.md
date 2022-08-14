@@ -1,7 +1,7 @@
-# Log in/Sign up with css
-Second week project at crework's beginners cohort-1 is to create login/sign up page using html,css only
 
-## Reference
+# Week 4 
+week 4 project is to add validations in sign up form 
+https://week4siddhjs.netlify.app/index2.html
 
 
 
