@@ -1,5 +1,4 @@
-# Crework Beginner cohort-1
 
-Crework is community where people learn web development this cohort is for Beginner cohort
-where we are learning web development from scratch , and weekly community leads gives us 
-task/projects to complete.
+# Week 4 
+week 4 project is to add validations in sign up form 
+https://week4siddhjs.netlify.app/index2.html
