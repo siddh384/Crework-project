@@ -1,7 +1,3 @@
-# Log in/Sign up with css
-Second week project at crework's beginners cohort-1 is to create login/sign up page using html,css only
+# Month-2 Week-1
 
-## Reference
-
-
-
+This week in pair programming to create 
